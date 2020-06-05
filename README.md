@@ -10,3 +10,6 @@ Node.js - https://nodejs.org/en/download/ (Caso não saiba como baixar e instala
 GitBash - https://gitforwindows.org/ (Caso não saiba como baixar e instalar, recomendo que procure algum vídeo ou site para lhe auxiliar).
 
 Além dos programas, será necessário adicionar mais algumas extensões ao seu Visual Studio Code, sendo uma o "Nunjucks Template" (0.2.1) e se quiser uma melhor organização das suas pastas, o "vscode-icons" (10.1.1)
+
+
+# Irei adicionar posteriormente as últimas informações que faltam para que o servidor possa ser executado de forma simples.
